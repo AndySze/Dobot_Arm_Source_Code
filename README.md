@@ -1,5 +1,7 @@
 Dobot source code from Dobot offical (https://drive.google.com/file/d/0B-h6JvGEL5CkVnFRbm1IclI3eVk/view?usp=sharing)
 
+Dobot website: http://dobot.cc/
+
 Dobot 1.0 source code is released under license: LGPL v2.1(GNU Lesser General Public License v2.1)8
 
 Dobot source code description
