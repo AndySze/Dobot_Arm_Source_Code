@@ -1,0 +1,10 @@
+StepperClass    KEYWORD1
+init    KEYWORD1
+
+stopStep    KEYWORD1
+Comm    KEYWORD1
+CommClass    KEYWORD1
+Robot    KEYWORD1
+robot    KEYWORD1
+process    KEYWORD1
+upload    KEYWORD1    
